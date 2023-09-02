@@ -14,7 +14,7 @@
 
 <br>
 
-This project was made to practice my skills with JavaScript and DOM manipulation, and also to learn more about CSS before and after pseudo-elements.
+This project was made to practice my skills with JavaScript and also to learn more about CSS pseudo-elements.
 
 ### 👥 Clone this repository:
 ```bash
