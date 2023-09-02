@@ -41,7 +41,7 @@ git clone https://github.com/evelynlacerda/tictactoe-js.git
 - The game is for two players, X and O. The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner.
 - Click on the board to place your mark and have fun!
 
-<b>Preview:</b>
+<b>Preview:</b><br>
 <img src="./src/img/layout.gif">
 
 ### ✨ Future improvements:
